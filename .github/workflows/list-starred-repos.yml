@@ -1,5 +1,5 @@
 # This workflow builds a list of your starred repositories
-name: list-stared-repo
+name: list-starred-repos
 
 on:
   schedule:
