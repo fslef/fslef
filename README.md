@@ -9,4 +9,6 @@ Skills: Azure / Security / DevSecOps / ATP
 🤔 I’m looking for help with improving my dev skills (feel free to advise me) \
 🎸 Fun fact: All my free time is (almost) focused on playing my bass guitar
 
+Feel free to also take a look to my [Awesome Stars](Awesome-Stars.md) page
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fslef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fslef/)  
