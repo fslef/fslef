@@ -298,7 +298,7 @@
 
 ## python 
 
-- [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD tools for offensive and defensive security purposes
+- [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
 
 ## security 
 
