@@ -70,7 +70,7 @@
 ## aws 
 
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - This project empowers defenders with independent data on which native security controls of leading technology platforms are most useful in defending against the adversary TTPs they care about.
+- [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - 🚨ATTENTION🚨 The Security Stack Mappings have migrated to the Center’s Mappings Explorer project. See README below. This repository is kept here as an archive.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 
@@ -80,7 +80,7 @@
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [Pwd9000-ML/terraform-azurerm-secure-backend](https://github.com/Pwd9000-ML/terraform-azurerm-secure-backend) - Public Terraform Registry module for setting up a secure AZURE backend environment for a team to use in AZURE
 - [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise-ready Azure Policy-as-Code (PaC) solution (includes Az DevOps pipeline)
-- [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - This project empowers defenders with independent data on which native security controls of leading technology platforms are most useful in defending against the adversary TTPs they care about.
+- [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - 🚨ATTENTION🚨 The Security Stack Mappings have migrated to the Center’s Mappings Explorer project. See README below. This repository is kept here as an archive.
 - [fawohlsc/azure-policy-testing](https://github.com/fawohlsc/azure-policy-testing) - This repository outlines an automated testing approach for Azure Policies. The approach is fundamentally based on behavior-driven development (BDD) to improve communication between developers, securit
 - [undergroundwires/Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) - ☁️ Azure summary in bullet points
 - [Azure/terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale) - Azure landing zones Terraform module
@@ -305,7 +305,7 @@
 - [microsoft/security-devops-action](https://github.com/microsoft/security-devops-action) - Microsoft Security DevOps for GitHub Actions.
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
-- [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - This project empowers defenders with independent data on which native security controls of leading technology platforms are most useful in defending against the adversary TTPs they care about.
+- [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - 🚨ATTENTION🚨 The Security Stack Mappings have migrated to the Center’s Mappings Explorer project. See README below. This repository is kept here as an archive.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
 - [Arudjreis/awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
