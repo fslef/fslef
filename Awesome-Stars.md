@@ -109,6 +109,7 @@
 
 ## cybersecurity 
 
+- [Azure/Copilot-For-Security](https://github.com/Azure/Copilot-For-Security) - Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, wh
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
 
@@ -208,6 +209,7 @@
 
 ## others 
 
+- [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [johndejager/DSC_CISConfigurations](https://github.com/johndejager/DSC_CISConfigurations) - Repo for CIS hardening based on CIS standards
 - [microsoft/EntraExporter](https://github.com/microsoft/EntraExporter) - PowerShell module to export a local copy of an Entra (Azure AD) tenant configuration.
 - [kennethvs/cabaseline202212](https://github.com/kennethvs/cabaseline202212) - Conditional Access Baseline - December 2022
