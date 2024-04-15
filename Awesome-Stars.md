@@ -28,6 +28,7 @@
 - [iot](#iot)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [macos](#macos)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
 - [others](#others)
@@ -40,6 +41,8 @@
 - [security](#security)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [swift](#swift)
+- [swiftui](#swiftui)
 - [terraform](#terraform)
 - [testing](#testing)
 - [visual-studio-code](#visual-studio-code)
@@ -165,6 +168,7 @@
 
 ## hacktoberfest 
 
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -193,6 +197,10 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+
+## macos 
+
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 
 ## microsoft 
 
@@ -322,6 +330,14 @@
 ## sqlite 
 
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+
+## swift 
+
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+
+## swiftui 
+
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 
 ## terraform 
 
