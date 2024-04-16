@@ -16,6 +16,7 @@
 - [design](#design)
 - [devops](#devops)
 - [docker](#docker)
+- [font](#font)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -137,6 +138,10 @@
 ## docker 
 
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
+
+## font 
+
+- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## git 
 
