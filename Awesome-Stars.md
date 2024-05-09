@@ -29,6 +29,7 @@
 - [iot](#iot)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [llm](#llm)
 - [macos](#macos)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
@@ -202,6 +203,10 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+
+## llm 
+
+- [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 
 ## macos 
 
