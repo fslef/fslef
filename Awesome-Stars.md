@@ -81,7 +81,7 @@
 
 ## azure 
 
-- [merill/idPowerToys](https://github.com/merill/idPowerToys) - Repository for idPowerToys an app for Azure Active Directory admins.
+- [merill/idPowerToys](https://github.com/merill/idPowerToys) - Repository for idPowerToys an app for Entra admins.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [Pwd9000-ML/terraform-azurerm-secure-backend](https://github.com/Pwd9000-ML/terraform-azurerm-secure-backend) - Public Terraform Registry module for setting up a secure AZURE backend environment for a team to use in AZURE
 - [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise-ready Azure Policy-as-Code (PaC) solution (includes Az DevOps pipeline)
