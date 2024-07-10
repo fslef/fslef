@@ -11,6 +11,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [bugbounty](#bugbounty)
 - [chatgpt](#chatgpt)
 - [cybersecurity](#cybersecurity)
 - [design](#design)
@@ -107,6 +108,10 @@
 - [PrateekKumarSingh/AzViz](https://github.com/PrateekKumarSingh/AzViz) - ⚡ ☁ Azure Visualizer aka 'AzViz' : A #powershell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource
 - [David-Summers/Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
 - [azure-deprecation/dashboard](https://github.com/azure-deprecation/dashboard) - Notices about Azure services & features being deprecated
+
+## bugbounty 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## chatgpt 
 
