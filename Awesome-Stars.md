@@ -93,7 +93,7 @@
 - [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) - Bicep and Terraform code examples for policy-as-code workflows. Azure governance guardrails and automation - by @JesseLoudon
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
-- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Azure Terraform SRE framework
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 - [globalbao/awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy) - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon
 - [Cloud-Architekt/AzurePrivilegedIAM](https://github.com/Cloud-Architekt/AzurePrivilegedIAM) - Docs and samples for privileged identity and access management in Microsoft Azure and Microsoft Entra.
 - [microsoft/Application-Insights-Workbooks](https://github.com/microsoft/Application-Insights-Workbooks) - Templates for Azure Monitor Workbooks
@@ -137,7 +137,7 @@
 - [undergroundwires/Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) - ☁️ Azure summary in bullet points
 - [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) - Bicep and Terraform code examples for policy-as-code workflows. Azure governance guardrails and automation - by @JesseLoudon
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Azure Terraform SRE framework
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 - [Azure/CCOInsights](https://github.com/Azure/CCOInsights) - Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take b
 - [hkamel/azuredevops-postman-collections](https://github.com/hkamel/azuredevops-postman-collections) - The collections allow you to test common Azure DevOps Rest APIs from within Postman.
 
@@ -363,7 +363,7 @@
 - [Azure/terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale) - Azure landing zones Terraform module
 - [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) - Bicep and Terraform code examples for policy-as-code workflows. Azure governance guardrails and automation - by @JesseLoudon
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
-- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - Azure Terraform SRE framework
+- [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) - This solution, offered by the Open-Source community, will no longer receive contributions from Microsoft.  Customers are encouraged to transition to Microsoft Azure Verified Modules for continued supp
 
 ## testing 
 
