@@ -281,7 +281,6 @@
 - [javiersoriano/sentinel-training](https://github.com/javiersoriano/sentinel-training) - 
 - [nccgroup/azucar](https://github.com/nccgroup/azucar) - Security auditing tool for Azure environments
 - [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) - A collection of scripts for assessing Microsoft Azure security
-- [microsoft/MCW-Security-baseline-on-Azure](https://github.com/microsoft/MCW-Security-baseline-on-Azure) - MCW Security baseline on Azure
 - [microsoft/AADConnectConfigDocumenter](https://github.com/microsoft/AADConnectConfigDocumenter) - AAD Connect configuration documenter is a tool to generate documentation of an AAD Connect installation.
 - [microsoft/BaselineManagement](https://github.com/microsoft/BaselineManagement) - Conversion tool used to Convert Group Policy baselines into DSC
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
