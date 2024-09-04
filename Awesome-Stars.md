@@ -237,7 +237,7 @@
 - [microsoft/EntraExporter](https://github.com/microsoft/EntraExporter) - PowerShell module to export a local copy of an Entra (Azure AD) tenant configuration.
 - [kennethvs/cabaseline202212](https://github.com/kennethvs/cabaseline202212) - Conditional Access Baseline - December 2022
 - [adrecon/ADRecon](https://github.com/adrecon/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
-- [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) - Insights and change tracking on Azure Active Directory Service Principals (Enterprise Applications and Applications)
+- [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) - Insights and change tracking on Microsoft Entra ID Service Principals (Enterprise Applications, Applications and Managed Identities)
 - [teoseller/osquery-attck](https://github.com/teoseller/osquery-attck) - Mapping the MITRE ATT&CK Matrix with Osquery
 - [JimGBritt/AzurePolicy](https://github.com/JimGBritt/AzurePolicy) - Sample Azure Policies
 - [Azure/review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize Azure review checklists.
