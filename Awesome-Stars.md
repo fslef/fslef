@@ -287,7 +287,6 @@
 - [stufus/ADOffline](https://github.com/stufus/ADOffline) - Imports an LDAP file from Active Directory for SQL based offline reconnisance
 - [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 - [azure-ad-b2c/user-migration](https://github.com/azure-ad-b2c/user-migration) - Azure AD B2C User Journeys to perform User Migration from Legacy Identity Providers.
-- [mspnp/identity-reference-architectures](https://github.com/mspnp/identity-reference-architectures) - Reference architectures for extending your Active Directory environment to Azure
 - [azauditor/ADAudit](https://github.com/azauditor/ADAudit) - Active Directory Audit Tools for IT Audits
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 
