@@ -42,7 +42,6 @@
 - [publishing](#publishing)
 - [python](#python)
 - [security](#security)
-- [sql](#sql)
 - [sqlite](#sqlite)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -181,6 +180,7 @@
 
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [pnp/List-Formatting](https://github.com/pnp/List-Formatting) - List Formatting Samples for use in SharePoint and Microsoft Lists
@@ -232,6 +232,7 @@
 
 ## others 
 
+- [Azure/ipam](https://github.com/Azure/ipam) - IP Address Management on Azure
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [johndejager/DSC_CISConfigurations](https://github.com/johndejager/DSC_CISConfigurations) - Repo for CIS hardening based on CIS standards
 - [microsoft/EntraExporter](https://github.com/microsoft/EntraExporter) - PowerShell module to export a local copy of an Entra (Azure AD) tenant configuration.
@@ -335,10 +336,6 @@
 - [hausec/PowerZure](https://github.com/hausec/PowerZure) - PowerShell framework to assess Azure security
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
-
-## sql 
-
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 
 ## sqlite 
 
