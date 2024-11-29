@@ -178,6 +178,7 @@
 
 ## hacktoberfest 
 
+- [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
@@ -306,6 +307,8 @@
 
 ## powershell 
 
+- [psake/PowerShellBuild](https://github.com/psake/PowerShellBuild) - Common build tasks for psake and Invoke-Build that build and test PowerShell modules
+- [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [fawohlsc/azure-policy-testing](https://github.com/fawohlsc/azure-policy-testing) - This repository outlines an automated testing approach for Azure Policies. The approach is fundamentally based on behavior-driven development (BDD) to improve communication between developers, securit
@@ -367,6 +370,7 @@
 
 ## visual-studio-code 
 
+- [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 
 ## windows 
