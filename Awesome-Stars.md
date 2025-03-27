@@ -308,6 +308,7 @@
 
 ## powershell 
 
+- [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [psake/PowerShellBuild](https://github.com/psake/PowerShellBuild) - Common build tasks for psake and Invoke-Build that build and test PowerShell modules
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
