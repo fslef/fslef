@@ -243,7 +243,7 @@
 - [JulianHayward/AzADServicePrincipalInsights](https://github.com/JulianHayward/AzADServicePrincipalInsights) - Insights and change tracking on Microsoft Entra ID Service Principals (Enterprise Applications, Applications and Managed Identities)
 - [teoseller/osquery-attck](https://github.com/teoseller/osquery-attck) - Mapping the MITRE ATT&CK Matrix with Osquery
 - [JimGBritt/AzurePolicy](https://github.com/JimGBritt/AzurePolicy) - Sample Azure Policies
-- [Azure/review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize Azure review checklists.
+- [Azure/review-checklists](https://github.com/Azure/review-checklists) - Azure Review Checklists helps ensure you are following Microsoft best practices and recommendations across Platform, Applications and Services on Azure
 - [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) - ConditionalAccessforZeroTrustResources holding resources for Azure AD CA guidance for Zero Trust
 - [chrismatteson/terraform-code-style-guide](https://github.com/chrismatteson/terraform-code-style-guide) - 
 - [Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
