@@ -6,6 +6,7 @@
 ## Contents
 
 - [android](#android)
+- [archlinux](#archlinux)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -17,6 +18,7 @@
 - [design](#design)
 - [devops](#devops)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [font](#font)
 - [git](#git)
 - [github](#github)
@@ -55,6 +57,10 @@
 ## android 
 
 - [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange card content in a common and consistent way.
+
+## archlinux 
+
+- [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles) - Linux, Windows dotfiles managed with Chezmoi
 
 ## automation 
 
@@ -144,6 +150,10 @@
 ## docker 
 
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
+
+## dotfiles 
+
+- [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles) - Linux, Windows dotfiles managed with Chezmoi
 
 ## font 
 
