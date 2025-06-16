@@ -41,6 +41,7 @@
 - [pentesting](#pentesting)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [productivity](#productivity)
 - [publishing](#publishing)
 - [python](#python)
 - [security](#security)
@@ -330,6 +331,10 @@
 - [RootITUp/Logging](https://github.com/RootITUp/Logging) - Powershell Logging Module
 - [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
+
+## productivity 
+
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 
 ## publishing 
 
