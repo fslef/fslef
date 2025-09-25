@@ -14,6 +14,7 @@
 - [azure](#azure)
 - [bugbounty](#bugbounty)
 - [chatgpt](#chatgpt)
+- [cloud](#cloud)
 - [cybersecurity](#cybersecurity)
 - [design](#design)
 - [devops](#devops)
@@ -123,6 +124,15 @@
 ## chatgpt 
 
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
+
+## cloud 
+
+- [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - 🚨ATTENTION🚨 The Security Stack Mappings have migrated to the Center’s Mappings Explorer project. See README below. This repository is kept here as an archive.
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+- [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+- [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
+- [globalbao/awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy) - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon
+- [Azure/CCOInsights](https://github.com/Azure/CCOInsights) - Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take b
 
 ## cybersecurity 
 
