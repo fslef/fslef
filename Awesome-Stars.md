@@ -47,6 +47,7 @@
 - [python](#python)
 - [security](#security)
 - [security-tools](#security-tools)
+- [self-hosted](#self-hosted)
 - [sqlite](#sqlite)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -371,6 +372,10 @@
 
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+
+## self-hosted 
+
+- [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy)
 
 ## sqlite 
 
