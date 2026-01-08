@@ -44,6 +44,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [productivity](#productivity)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [python](#python)
 - [security](#security)
@@ -354,6 +355,10 @@
 ## productivity 
 
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+
+## prompt-engineering 
+
+- [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 
 ## publishing 
 
