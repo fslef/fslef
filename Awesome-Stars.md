@@ -307,7 +307,7 @@
 - [MicrosoftLearning/AZ500-AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) - Microsoft Azure Security Technologies
 - [MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) - AZ-104 Microsoft Azure Administrator
 - [MicrosoftDocs/mslearn-tailspin-spacegame-web](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web) - Code used in Microsoft Learn modules to support Azure DevOps
-- [tyconsulting/AzureResourceGraph](https://github.com/tyconsulting/AzureResourceGraph) - Collection of Azure Resource Graph Queries
+- [TaoYang-Cloud/AzureResourceGraph](https://github.com/TaoYang-Cloud/AzureResourceGraph) - Collection of Azure Resource Graph Queries
 - [QuietusPlus/Write-Menu](https://github.com/QuietusPlus/Write-Menu) - PowerShell - A console menu for PowerShell (CLI) - Keyboard navigation + Pages + MultiSelect + Nested Menu's
 - [microsoft/AzureMonitorCommunity](https://github.com/microsoft/AzureMonitorCommunity) - An open repo for Azure Monitor queries, workbooks, alerts and more
 - [scautomation/Azure-Inventory-Workbook](https://github.com/scautomation/Azure-Inventory-Workbook) - The Ultimate Azure Inventory Dashboard
