@@ -17,7 +17,6 @@
 - [chatgpt](#chatgpt)
 - [cloud](#cloud)
 - [cybersecurity](#cybersecurity)
-- [design](#design)
 - [devops](#devops)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
@@ -122,7 +121,6 @@
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [Azure/ResourceModules](https://github.com/Azure/ResourceModules) - This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOp
 - [PrateekKumarSingh/AzViz](https://github.com/PrateekKumarSingh/AzViz) - ⚡ ☁ Azure Visualizer aka 'AzViz' : A #powershell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource
-- [David-Summers/Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
 - [azure-deprecation/dashboard](https://github.com/azure-deprecation/dashboard) - Notices about Azure services & features being deprecated
 
 ## bugbounty 
@@ -147,10 +145,6 @@
 - [Azure/Security-Copilot](https://github.com/Azure/Security-Copilot) - Microsoft Security Copilot is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while 
 - [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 - [microsoft/Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) - Sample queries for Advanced hunting in Microsoft 365 Defender
-
-## design 
-
-- [David-Summers/Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
 
 ## devops 
 
@@ -259,7 +253,6 @@
 - [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
 - [Azure/CCOInsights](https://github.com/Azure/CCOInsights) - Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take b
 - [Azure/ResourceModules](https://github.com/Azure/ResourceModules) - This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOp
-- [David-Summers/Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
 
 ## monitoring 
 
