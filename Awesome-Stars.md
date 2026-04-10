@@ -100,7 +100,7 @@
 - [merill/idPowerToys](https://github.com/merill/idPowerToys) - Repository for idPowerToys an app for Entra admins.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [Pwd9000-ML/terraform-azurerm-secure-backend](https://github.com/Pwd9000-ML/terraform-azurerm-secure-backend) - Public Terraform Registry module for setting up a secure AZURE backend environment for a team to use in AZURE
-- [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise-ready Azure Policy-as-Code (PaC) solution (includes Az DevOps pipeline)
+- [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise Azure Policy-as-Code (EPAC) solution
 - [center-for-threat-informed-defense/security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - 🚨ATTENTION🚨 The Security Stack Mappings have migrated to the Center’s Mappings Explorer project. See README below. This repository is kept here as an archive.
 - [fawohlsc/azure-policy-testing](https://github.com/fawohlsc/azure-policy-testing) - This repository outlines an automated testing approach for Azure Policies. The approach is fundamentally based on behavior-driven development (BDD) to improve communication between developers, securit
 - [undergroundwires/Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) - ☁️ Azure summary in bullet points
@@ -152,7 +152,7 @@
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [Pwd9000-ML/terraform-azurerm-secure-backend](https://github.com/Pwd9000-ML/terraform-azurerm-secure-backend) - Public Terraform Registry module for setting up a secure AZURE backend environment for a team to use in AZURE
-- [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise-ready Azure Policy-as-Code (PaC) solution (includes Az DevOps pipeline)
+- [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise Azure Policy-as-Code (EPAC) solution
 - [undergroundwires/Azure-in-bullet-points](https://github.com/undergroundwires/Azure-in-bullet-points) - ☁️ Azure summary in bullet points
 - [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) - Bicep and Terraform code examples for policy-as-code workflows. Azure governance guardrails and automation - by @JesseLoudon
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
