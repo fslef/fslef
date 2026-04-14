@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
 - [archlinux](#archlinux)
@@ -58,6 +59,11 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xamarin](#xamarin)
+- [youtube](#youtube)
+
+## ai 
+
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 
 ## android 
 
@@ -73,6 +79,7 @@
 
 ## automation 
 
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements.
 - [PrateekKumarSingh/AzViz](https://github.com/PrateekKumarSingh/AzViz) - ⚡ ☁ Azure Visualizer aka 'AzViz' : A #powershell module to automatically generate Azure resource topology diagrams by just typing a PowerShell cmdlet and passing the name of one or more Azure Resource
 
@@ -205,6 +212,7 @@
 
 ## hacktoberfest 
 
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
@@ -216,6 +224,7 @@
 
 ## home-assistant 
 
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [bachya/smart-home](https://github.com/bachya/smart-home) - ⭐ (Almost) everything needed to run my smart home with Home Assistant and more!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 
@@ -433,6 +442,10 @@
 ## xamarin 
 
 - [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange card content in a common and consistent way.
+
+## youtube 
+
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 
 
 ## License
