@@ -219,7 +219,6 @@
 
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
