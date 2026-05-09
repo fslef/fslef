@@ -32,7 +32,6 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [ios](#ios)
-- [iot](#iot)
 - [json](#json)
 - [kubernetes](#kubernetes)
 - [llm](#llm)
@@ -224,7 +223,6 @@
 - [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [pnp/List-Formatting](https://github.com/pnp/List-Formatting) - List Formatting Samples for use in SharePoint and Microsoft Lists
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 
 ## home-assistant 
 
@@ -235,10 +233,6 @@
 ## ios 
 
 - [microsoft/AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange card content in a common and consistent way.
-
-## iot 
-
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 
 ## json 
 
