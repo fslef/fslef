@@ -251,7 +251,7 @@
 
 ## macos 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 
 ## microsoft 
 
@@ -356,7 +356,7 @@
 
 ## productivity 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 
 ## prompt-engineering 
 
@@ -399,11 +399,11 @@
 
 ## swift 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 
 ## swiftui 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 
 ## terraform 
 
