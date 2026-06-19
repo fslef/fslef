@@ -47,6 +47,7 @@
 - [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [python](#python)
+- [redteam](#redteam)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -370,6 +371,12 @@
 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
+
+## redteam 
+
+- [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [samratashok/nishang](https://github.com/samratashok/nishang) - Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 
 ## security 
 
