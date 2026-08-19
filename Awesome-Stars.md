@@ -105,7 +105,6 @@
 
 ## azure 
 
-- [merill/idPowerToys](https://github.com/merill/idPowerToys) - Repository for idPowerToys an app for Entra admins.
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [Pwd9000-ML/terraform-azurerm-secure-backend](https://github.com/Pwd9000-ML/terraform-azurerm-secure-backend) - Public Terraform Registry module for setting up a secure AZURE backend environment for a team to use in AZURE
 - [Azure/enterprise-azure-policy-as-code](https://github.com/Azure/enterprise-azure-policy-as-code) - Enterprise Azure Policy-as-Code (EPAC) solution
@@ -268,6 +267,7 @@
 
 ## others 
 
+- [stefanstranger/obsidian-workiq-plugin](https://github.com/stefanstranger/obsidian-workiq-plugin) - Obsidian plugin for workiq
 - [Azure/ipam](https://github.com/Azure/ipam) - IP Address Management on Azure
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [johndejager/DSC_CISConfigurations](https://github.com/johndejager/DSC_CISConfigurations) - Repo for CIS hardening based on CIS standards
