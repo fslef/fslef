@@ -8,7 +8,6 @@
 - [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
-- [archlinux](#archlinux)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -73,10 +72,6 @@
 ## ansible 
 
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
-
-## archlinux 
-
-- [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles) - Linux, Windows dotfiles managed with Chezmoi
 
 ## automation 
 
@@ -180,7 +175,7 @@
 
 ## dotfiles 
 
-- [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles) - Linux, Windows dotfiles managed with Chezmoi
+- [KevinNitroG/dotfiles](https://github.com/KevinNitroG/dotfiles) - Linux, Windows dotfiles managed with Chezmoi (and AI, sorry Linux world)
 
 ## font 
 
