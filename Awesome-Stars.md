@@ -303,7 +303,6 @@
 - [canix1/ADACLScanner](https://github.com/canix1/ADACLScanner) - Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory
 - [microsoft/DefendTheFlag](https://github.com/microsoft/DefendTheFlag) - Get started fast with a built out lab, built from scratch via Azure Resource Manager (ARM) and Desired State Configuration (DSC), to test out Microsoft's security products.
 - [MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) - AZ-104 Microsoft Azure Administrator
-- [MicrosoftDocs/mslearn-tailspin-spacegame-web](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web) - Code used in Microsoft Learn modules to support Azure DevOps
 - [TaoYang-Cloud/AzureResourceGraph](https://github.com/TaoYang-Cloud/AzureResourceGraph) - Collection of Azure Resource Graph Queries
 - [QuietusPlus/Write-Menu](https://github.com/QuietusPlus/Write-Menu) - PowerShell - A console menu for PowerShell (CLI) - Keyboard navigation + Pages + MultiSelect + Nested Menu's
 - [microsoft/AzureMonitorCommunity](https://github.com/microsoft/AzureMonitorCommunity) - An open repo for Azure Monitor queries, workbooks, alerts and more
